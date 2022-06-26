@@ -10,3 +10,6 @@ insertOne function used to insert one data. (We can create our own data first th
 find function used to fetch the data from the DB.
 
 USE command npm install or npm i to install the Node modules in VS Code.
+
+
+Note: Don't download send.js as this is for SQS functionality in AWS console. This can be use to save the SQS in the required SQS URL which we are going to provide(Check vijbirhman2017@gmail.com to check out the video for this implementation / URL: https://youtu.be/EKaklEUB_yA) Check out and implement accordingly.
